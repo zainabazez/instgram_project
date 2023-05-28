@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:instgram_project/DetailsFruitePage.dart';
-import 'package:instgram_project/home_frout_page.dart';
+import 'package:instgram_project/FruitProject/DetailsFruitePage.dart';
+import 'package:instgram_project/FruitProject/home_frout_page.dart';
 
 void main() {
   runApp( MyApp());
